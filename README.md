@@ -20,19 +20,6 @@ Plataforma de apoio fonoaudiológico voltada ao tratamento de crianças com desv
 
 ---
 
-## Taxonomia Padronizada de Etiquetas (Labels)
-
-A gestão e classificação das issues seguem a estrutura de categorias abaixo:
-
-| Categoria | Etiquetas Obrigatórias | Finalidade |
-| :--- | :--- | :--- |
-| **Hierarquia** | `epic` | Identifica iniciativas e pacotes macro de entrega. |
-| **Frentes Técnicas** | `backend`, `frontend`, `database`, `ui` | Identifica as camadas e especialidades envolvidas. |
-| **Tipagem** | `documentation`, `bug`, `enhancement` | Classifica a natureza da exigência. |
-| **Prioridade** | `priority: high`, `priority: medium`, `priority: low` | Sinaliza o nível de urgência e valor de negócio. |
-
----
-
 ## Estrutura de Repositórios da Organização
 
 A organização possui os seguintes repositórios estruturados para o ecossistema da solução:
